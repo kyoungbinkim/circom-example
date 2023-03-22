@@ -1,6 +1,5 @@
 *_js/
 *_cpp/
 
-*.json
 *.r1cs
 *.sym
