@@ -1,5 +1,7 @@
 *_js/
 *_cpp/
 
+.vscode/
+
 *.r1cs
 *.sym
